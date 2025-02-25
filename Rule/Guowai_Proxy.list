@@ -21,3 +21,12 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,aktv.top
 DOMAIN-SUFFIX,dygangs.net
+DOMAIN-SUFFIX,duboku.tv
+DOMAIN-SUFFIX,duboku.com
+
+#DNS泄露网站
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,pixelscan.net
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,astrill.com
