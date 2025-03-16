@@ -1,6 +1,6 @@
 # NAME: 国外
 # AUTHOR: Raymond-131
-# UPDATED: 2025年1月15日
+# UPDATED: 2025/3/16
 
 DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,wallhaven.cc
@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,wd-gold.com
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,bt4g.org
 DOMAIN-SUFFIX,bt4gprx.com
-DOMAIN-SUFFIX,socpk.com
 DOMAIN-SUFFIX,tuta.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
@@ -24,3 +23,4 @@ DOMAIN-SUFFIX,dygangs.net
 DOMAIN-SUFFIX,duboku.tv
 DOMAIN-SUFFIX,duboku.com
 DOMAIN-SUFFIX,duboku.io
+DOMAIN-SUFFIX,aktv.space
