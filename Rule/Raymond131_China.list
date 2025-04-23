@@ -1,0 +1,13 @@
+# NAME: 国内APP
+# AUTHOR: Raymond-131
+
+# GOTV
+IP-CIDR,64.62.198.0/24,no-resolve
+IP-CIDR,23.237.231.0/24,no-resolve
+IP-CIDR,23.237.2.0/24,no-resolve
+IP-CIDR,198.255.85.0/24,no-resolve
+IP-CIDR,93.179.126.0/24,no-resolve
+IP-CIDR,192.243.121.0/24,no-resolve
+IP-CIDR,131.128.0.0/24,no-resolve
+IP-CIDR,142.250.141.0/24,no-resolve
+IP-CIDR,74.125.204.0/24,no-resolve
