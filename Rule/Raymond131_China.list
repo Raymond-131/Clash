@@ -20,4 +20,7 @@ DOMAIN-SUFFIX,hexin.cn,DIRECT
 
 
 #Aimlab
-DOMAIN-SUFFIX,aimlab.gg
+DOMAIN-KEYWORD,aimlab,DIRECT
+DOMAIN-SUFFIX,aimlab.gg,DIRECT
+DOMAIN-SUFFIX,aimlabs.com,DIRECT
+
