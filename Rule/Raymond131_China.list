@@ -11,6 +11,8 @@ IP-CIDR,192.243.121.0/24,no-resolve
 IP-CIDR,131.128.0.0/24,no-resolve
 IP-CIDR,142.250.141.0/24,no-resolve
 IP-CIDR,74.125.204.0/24,no-resolve
+IP-CIDR,65.49.80.0/24,no-resolve
+IP-CIDR,92.222.172.0/24,no-resolve
 
 #同花顺
 DOMAIN-SUFFIX,123ths.com,DIRECT
@@ -25,4 +27,5 @@ DOMAIN-SUFFIX,aimlabs.com,DIRECT
 
 #chatshare
 DOMAIN-KEYWORD,chatshare,DIRECT
+
 
