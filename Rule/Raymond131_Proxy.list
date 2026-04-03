@@ -29,6 +29,6 @@ DOMAIN-SUFFIX,metatrader5.com
 DOMAIN-SUFFIX,aimlab.gg
 
 #Aimlab
-DOMAIN-KEYWORD,aimlab
-DOMAIN-SUFFIX,aimlab.gg
-DOMAIN-SUFFIX,aimlabs.com
+#DOMAIN-KEYWORD,aimlab
+#DOMAIN-SUFFIX,aimlab.gg
+#DOMAIN-SUFFIX,aimlabs.com
