@@ -39,6 +39,15 @@
  * [blockquic] blockquic=on 阻止; blockquic=off 不阻止
  */
 
+
+function operator(proxies = []) {
+  // 1. 第一步：先在最前面把带“免费”的直接过滤掉，连改名都省了
+  proxies = proxies.filter(p => !p.name.includes("免费"));
+
+  // 2. 第二步：下面紧接着跑原先的重命名和加前缀逻辑...
+  // [原 rename.js 的核心代码]
+}
+
 // const inArg = {'blkey':'iplc+GPT>GPTnewName+NF+IPLC', 'flag':true };
 const inArg = $arguments; // console.log(inArg)
 const nx = inArg.nx || false,
